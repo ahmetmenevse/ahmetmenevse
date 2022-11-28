@@ -1,3 +1,5 @@
+<h3> Hi there I'm Ahmet 👋 </h3>
+
 - 🌏 I’m base in Perth, Australia
 - 📫 You can contact me at ahmetmenevse26@gmail.com
 - 📚 I'm currently studying Web development on www.lewagon.com  
