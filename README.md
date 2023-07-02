@@ -1,8 +1,8 @@
-<h3> Hi there I'm Ahmet 👋 </h3>
+<h3> Hi there, I'm Ahmet 👋 </h3>
 
-- 🌏 I’m base in Perth, Australia
+- 🌏 I’m based in Perth, Australia
 - 📫 You can contact me at ahmetmenevse26@gmail.com
-- 📚 I studied Web development on www.lewagon.com  
+- 📚 I studied Web development at www.lewagon.com  
 - 🧠 I am currently learning REACT and know HTML, CSS, HTML and Ruby on Rails.
 
 <!---
