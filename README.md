@@ -2,8 +2,8 @@
 
 - 🌏 I’m based in Perth, Australia
 - 📫 You can contact me at ahmetmenevse26@gmail.com
-- 📚 I studied Web development at www.lewagon.com  
-- 🧠 I am currently learning REACT and know HTML, CSS, HTML and Ruby on Rails.
+- 🎓 Studied at www.lewagon.com (Ruby on Rails, SQL, React, JS, HTML, CSS)
+- 📚 I am studying Postgraduate Degree in Data Science and AI at Murdoch University(Python, R programming, Tableau)
 
 <!---
 ahmetmenevse/ahmetmenevse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
